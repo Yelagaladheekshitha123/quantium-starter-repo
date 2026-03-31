@@ -1,2 +1,2 @@
 # Quantium starter repo
-Task 1 completed: Environment setup and dependencies installed successfully.
+Task 3 completed: Environment setup and dependencies installed successfully.
